@@ -1,3 +1,13 @@
 # Ableton Live Racks
 
-Everything rack related.
+## nggdChStrip
+![nggdChStrip](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/img/nggdChStrip-v0.3.png)
+### [Download](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/racks/nggdChStrip-v0.3.adg)
+
+## QVerb
+![QVerb](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/img/QVerb%200.2.png)
+### [Download](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/racks/QVerb%200.2.adg)
+
+## TR-minator
+![TR-minator](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/img/tr-minator-v1.3.jpg)
+### [Download](https://github.com/pabloMasini/audio-production/blob/main/Ableton%20Live%20Racks/racks/TR-minator-v1.3.adg)
